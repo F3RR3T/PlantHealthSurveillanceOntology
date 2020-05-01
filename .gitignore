@@ -1,1 +1,13 @@
 *.txt
+
+# Mac
+.DS_Store
+
+# JetBrains
+.idea/
+
+# TopQuadrant tools
+.project
+
+# Protege
+catalog-*
